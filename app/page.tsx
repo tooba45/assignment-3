@@ -21,7 +21,7 @@ const Home = () => {
       <section id="about" className="bg-pink-300 py-11 flex justify-center items-center h-screen w-{100%}">
     <div className="bg-purple-400 rounded-lg shadow-lg p-8 max-w-3xl text-center">
       <h1 className= "text-2xl font-bold text-black">About me </h1>
-        <p className="mt-3 text-black">"My name is Tuba, I am a frontend developer"</p>
+        <p className="mt-3 text-black">&quot;My name is Tuba, I am a frontend developer&quot;</p>
     </div>
     </section>
 
@@ -31,7 +31,7 @@ const Home = () => {
     <div className="bg-purple-400 rounded-lg shadow-lg p-8 max-w-3xl text-center">
       <h1 className= "text-2xl font-bold text-black">Web Development</h1>
         <p className="mt-3 text-black">I create responsive,user-frinedly websites using modern
-        technologies like HTML,CSS,JavaScript and TypeScript.</p>
+        technologies like HTML, CSS, JavaScript and TypeScript.</p>
     </div>
    </section>
 
@@ -43,10 +43,10 @@ const Home = () => {
          <h1 className="font-bold text-2xl text-black">Phone </h1> 
          <p className="m1-3 text-black"> 03675894234</p>
          
-         <h2 className="font-bold text-2xl text-black">Email </h2>
-         <p className="mt-1 text-black"> tooba456@gmail.com </p>
+         <h2 className="font-bold text-2xl text-black">Email</h2>
+         <p className="mt-1 text-black"> tooba456@gmail.com</p>
      
-         <h1 className="font-bold text-2xl text-black">Address </h1>
+         <h1 className="font-bold text-2xl text-black">Address</h1>
          <p className="mt-1 text-black">Garden West Karachi</p>
          </div>
          </section>
