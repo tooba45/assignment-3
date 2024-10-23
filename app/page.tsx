@@ -1,7 +1,7 @@
 import Footer from './components/Footer/Footer';
 import Header from './components/Header/Header';
 import Hero from './components/Hero/Hero' ;
-import Image from 'next/image'
+import Image from 'next/image';
 
 
 const Home = () => {
@@ -12,7 +12,8 @@ const Home = () => {
       <Hero></Hero>
 
 <div className="bg-pink-300 py-11 flex justify-center items-center h-screen w-{100%}">
-      <img src="/images.png" width="400px" height="400px" alt="" />
+
+<Image src="/images.png" width={"400"} height={"400"} alt="page.tsx" />
       
       </div>
 
